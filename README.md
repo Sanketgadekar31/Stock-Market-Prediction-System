@@ -1,4 +1,5 @@
 # Stock-Market-Prediction-System
+Streamlit-based Python project for real-time stock market prediction, offering a user-friendly interface to visualize and analyze financial data.
 
 To run streamlit application 
 
